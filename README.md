@@ -1,3 +1,4 @@
+Wanting to learn how to version control projects with git.
 # cka
 Kube
 # CKA (Project Title)
